@@ -10,9 +10,10 @@ Tasty.css is a collection of css buttons style.
 - Custom Button Color
 
 You don't have to download this to add it to your projects, just use this :
-JS : 
+#JS : 
 - https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.min.js
 - https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.js
-CSS : 
+
+#CSS : 
 - https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.min.css
 - https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.css
