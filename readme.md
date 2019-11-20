@@ -17,3 +17,13 @@ You don't have to download this to add it to your projects, just use this :
 # CSS : 
 - https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.min.css
 - https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.css
+
+# How to add Custom Colored buttons?
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.min.js"></script>
+<script>
+  example
+  Tasty.addCustomColor('B26714', 'brown').GenerateCss()
+</script>
+```
