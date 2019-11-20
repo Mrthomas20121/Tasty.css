@@ -1,15 +1,3 @@
-/*
-Tasty.css by Mrthomas20121 2018-2019
-These Buttons are free to use in/edit for a project
-If you use my buttons in your site or app, credit me, that's all im asking!
-
-https://twitter.com/Mrthomas20121
-https://github.com/Mrthomas20121
-https://codepen.io/mrthomas20121
-*/
-/*
-Custom Style
-*/
 class Tasty {
   name="Tasty.css"
   constructor() {}
