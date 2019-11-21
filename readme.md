@@ -23,7 +23,9 @@ You don't have to download this to add it to your projects, just use this :
 ```html
 <script src="https://cdn.jsdelivr.net/gh/mrthomas20121/Tasty.css/Tasty.min.js"></script>
 <script>
-  example
-  Tasty.addCustomColor('B26714', 'brown').GenerateCss()
+  // example : Added brown color
+  Tasty.addCustomColor('B26714', 'brown').GenerateCss();
 </script>
+<!-- You can then use the brown in your button classes -->
+<button class="button brown">Brown button!</button>
 ```
