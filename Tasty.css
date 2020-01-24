@@ -1,17 +1,9 @@
 /*
-  Buttons.css by Mrthomas20121
+  Tasty.css by Mrthomas20121
   Copyright (c) 2018
 */
 
-body {
-  height: 100%;
-  padding: 10px;
-  background: linear-gradient(90deg, #000D04 0%, #000D20 100%);
-}
-p {
-  color:white;
-}
-	a.button, button.button {
+  a.button, button.button {
     margin: 15px;
     font-weight: 700;
     border: 2px solid #0FEDBA; /* default border color */
