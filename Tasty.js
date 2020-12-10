@@ -1,22 +1,26 @@
-class Tasty {
-  name="Tasty.css"
-  constructor() {}
-  static addCustomColor(color='000000', name='black') {
-    return new CustomColor(color, name);
-  }
-}
+/*
+Tasty.css by Mrthomas20121 2018-2019
+These Buttons are free to use in/edit for a project
+If you use my buttons in your site or app, credit me, that's all im asking!
+
+https://twitter.com/Mrthomas20121
+https://github.com/Mrthomas20121
+https://codepen.io/mrthomas20121
+*/
 
 HTMLHeadElement.prototype.hasELement= function(elementName) {
+  var bool = false;
   for (var element of this.children) {
     if(element.nodeName.toLowerCase() == elementName) {
-      return true
+      bool = true;
+      break;
     }
   }
-  return false
+  return bool;
 }
 
-class CustomColor {
-  constructor(hex='', name='') {
+class Color {
+  constructor(hex='ffffff', name='') {
     this.hex = hex;
     this.name = name;
   }
